@@ -140,8 +140,6 @@ public class FeedReaderController
 		}
 
 		return rssFeedList;
-		// return new Greeting(counter.incrementAndGet(),
-		// String.format(template, name));
 	}
 
 	// String fileName = "c://lines.txt";
